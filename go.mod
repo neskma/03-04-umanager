@@ -1,6 +1,6 @@
 module gitlab.com/robotomize/gb-golang/homework/03-04-umanager
 
-go 1.21.0
+go 1.22
 
 require (
 	github.com/bxcodec/faker/v4 v4.0.0-beta.3
